@@ -1,0 +1,14 @@
+07:19:08.471 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - Starting ToDoListApplication on ranchordas-G41M-ES2L with PID 2294 (/home/ranchordas/practice/springMVC/ToDoList/target/classes started by ranchordas in /home/ranchordas/practice/springMVC/ToDoList)
+07:19:08.478 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - No active profile set, falling back to default profiles: default
+07:23:25.911 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - Starting ToDoListApplication on ranchordas-G41M-ES2L with PID 2772 (/home/ranchordas/practice/springMVC/ToDoList/target/classes started by ranchordas in /home/ranchordas/practice/springMVC/ToDoList)
+07:23:25.918 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - No active profile set, falling back to default profiles: default
+07:24:23.240 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - Starting ToDoListApplication on ranchordas-G41M-ES2L with PID 2854 (/home/ranchordas/practice/springMVC/ToDoList/target/classes started by ranchordas in /home/ranchordas/practice/springMVC/ToDoList)
+07:24:23.244 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - No active profile set, falling back to default profiles: default
+07:44:46.892 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - Starting ToDoListApplication on ranchordas-G41M-ES2L with PID 3615 (/home/ranchordas/practice/springMVC/ToDoList/target/classes started by ranchordas in /home/ranchordas/practice/springMVC/ToDoList)
+07:44:46.895 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - No active profile set, falling back to default profiles: default
+07:48:13.940 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - Starting ToDoListApplication on ranchordas-G41M-ES2L with PID 3911 (/home/ranchordas/practice/springMVC/ToDoList/target/classes started by ranchordas in /home/ranchordas/practice/springMVC/ToDoList)
+07:48:13.944 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - No active profile set, falling back to default profiles: default
+07:48:22.892 [restartedMain] INFO  c.ToDoList.test.ToDoListApplication - Started ToDoListApplication in 10.58 seconds (JVM running for 13.155)
+07:48:41.151 [http-nio-8383-exec-1] INFO  c.ToDoList.controller.MainController - Info : homveView() method of MainController is executed sucessfully.
+07:48:48.219 [http-nio-8383-exec-6] INFO  c.ToDoList.controller.MainController - registerView() of MainController is executed sucessfully.
+07:50:07.742 [http-nio-8383-exec-3] INFO  c.ToDoList.controller.MainController - getRegistered() of MainController is executed sucessfully.
